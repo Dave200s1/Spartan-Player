@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>32px_helmet.ico</file>
+        <file>img/icons/pause.png</file>
+        <file>img/icons/stop.png</file>
+        <file>img/icons/play-button.png</file>
+        <file>img/icons/24px_folder.png</file>
+        <file>img/icons/24px_maximize(1).png</file>
+        <file>img/icons/24px_wave-sound.png</file>
+        <file>img/icons/16px_minimize.png</file>
+    </qresource>
+</RCC>

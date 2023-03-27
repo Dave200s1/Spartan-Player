@@ -37,6 +37,11 @@ private slots:
 
     void on_actionfullScreen_triggered();
 
+    void on_actionAbout_triggered();
+
+
+    void on_actionTrueFullScreen_triggered();
+
 private:
     Ui::MainWindow *ui;
     QMediaPlayer* player;

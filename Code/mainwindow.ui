@@ -198,21 +198,19 @@ background-color: #0ca0ab; </string>
     <addaction name="actionplayVideo"/>
     <addaction name="separator"/>
     <addaction name="actionpauseVideo"/>
+    <addaction name="separator"/>
     <addaction name="actionfullScreen"/>
-   </widget>
-   <widget class="QMenu" name="menuHelp">
-    <property name="title">
-     <string>Help</string>
-    </property>
+    <addaction name="separator"/>
+    <addaction name="actionTrueFullScreen"/>
    </widget>
    <widget class="QMenu" name="menuAbout">
     <property name="title">
      <string>About</string>
     </property>
+    <addaction name="actionAbout"/>
    </widget>
    <addaction name="menuFile"/>
    <addaction name="menuVideo"/>
-   <addaction name="menuHelp"/>
    <addaction name="menuAbout"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
@@ -274,6 +272,27 @@ background-color: #0ca0ab; </string>
    </property>
    <property name="shortcut">
     <string>Ctrl+F</string>
+   </property>
+  </action>
+  <action name="actionAbout">
+   <property name="icon">
+    <iconset resource="resourcen.qrc">
+     <normaloff>:/icon/img/icons/24px_question.png</normaloff>:/icon/img/icons/24px_question.png</iconset>
+   </property>
+   <property name="text">
+    <string>About</string>
+   </property>
+   <property name="shortcut">
+    <string>Ctrl+H</string>
+   </property>
+  </action>
+  <action name="actionTrueFullScreen">
+   <property name="icon">
+    <iconset resource="resourcen.qrc">
+     <normaloff>:/icon/img/icons/24px_maximize(1).png</normaloff>:/icon/img/icons/24px_maximize(1).png</iconset>
+   </property>
+   <property name="text">
+    <string>TrueFullScreen</string>
    </property>
   </action>
  </widget>

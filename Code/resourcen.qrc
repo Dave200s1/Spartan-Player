@@ -8,5 +8,7 @@
         <file>img/icons/24px_maximize(1).png</file>
         <file>img/icons/24px_wave-sound.png</file>
         <file>img/icons/16px_minimize.png</file>
+        <file>img/icons/24px_question.png</file>
+        <file>img/icons/128_helmet.png</file>
     </qresource>
 </RCC>

@@ -42,6 +42,6 @@ Keep in mind there are some issues thus this is my first project which I am cont
 1. Window is not adjustable (In theory you can, but It doesn't scale).
 2. The Timestamps are only counting in mins for now and not in minutes and seconds.
 3. There is no option to add subtitles yet.
-
+4. If you go true full screen, you cannot interact with the other settings.
 
 

@@ -14,4 +14,4 @@ The program can play different video formats such as mkv or mpv4 and of course r
 * mpv4
 * mkv
 
-# ![Alt text](SpartanPlayerShowCaseTwo.png "Optional title")
+# ![Alt text](SpartanPlayerShowCaseTwo.png "Optional title")  ![Alt text](SpartanPlayerShowCaseOne.png "Optional title")

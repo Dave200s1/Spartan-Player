@@ -31,3 +31,17 @@ For now, I have not got any installer ready yet, but you can just clone the repo
 5. You have an executable
 ->./Spartan-Player
 
+## How to tweak this project for your own uses
+
+Simply clone the repo and build from source.
+
+## Known issues
+
+Keep in mind there are some issues thus this is my first project which I am contributing, and I am not by any means a professional.
+
+1. Window is not adjustable (In theory you can, but It doesn't scale).
+2. The Timestamps are only counting in mins for now and not in minutes and seconds.
+3. There is no option to add subtitles yet.
+
+
+

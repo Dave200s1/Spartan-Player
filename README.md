@@ -21,3 +21,13 @@ The program can play different video formats such as mkv or mpv4 and of course r
 For now, I have not got any installer ready yet, but you can just clone the repo and make yourself an executable in the following.
 
 1. Clone the repo 
+-> git clone https://github.com/Dave200s1/Spartan-Player.git
+2. cd into the project folder
+-> cd Spartan-Player/
+3. Run qmake Note: on some Distros like Fedora for instance you need to type qmake-qt4
+->qmake -Spartan-Player
+4. Run make
+-> make
+5. You have an executable
+->./Spartan-Player
+

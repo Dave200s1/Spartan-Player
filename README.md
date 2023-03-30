@@ -31,7 +31,7 @@ For now, I have not got any installer ready yet, but you can just clone the repo
 5. You have an executable
 ->./Spartan-Player
 
-## How to tweak this project for your own uses
+## How to tweak this project for your own uses ?
 
 Simply clone the repo and build from source.
 

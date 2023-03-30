@@ -15,3 +15,9 @@ The program can play different video formats such as mkv or mpv4 and of course r
 * mkv
 
 # ![Alt text](SpartanPlayerShowCaseTwo.png "Optional title")  ![Alt text](SpartanPlayerShowCaseOne.png "Optional title")
+
+## How to get the software up and running ?
+
+For now, I have not got any installer ready yet, but you can just clone the repo and make yourself an executable in the following.
+
+1. Clone the repo 
